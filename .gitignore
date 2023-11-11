@@ -1,0 +1,26 @@
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
+
+# Ignore virtual environment
+venv/
+
+# Ignore local configuration
+*.env
+*.pyc
+*.pyo
+*.envrc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS metadata
+.DS_Store
+
+# Ignore editor files
+.vscode/
+.idea/
+
+# Ignore logs
+*.log
